@@ -6,8 +6,8 @@ document.addEventListener("DOMContentLoaded",function(){
   const weatherCardsDiv = document.querySelector(".weather-cards");
   const cityImageContainer = document.querySelector(".city-image-container");
   
-  const API_KEY = "4ccb74f97649d39aea51cbf680215639";
-  const UNSPLASH_API_KEY = "mkE6OLrqlxyy71BNiz1HE0HhuplcCbCYC4jfkJGrA2k";
+  const API_KEY = "";
+  const UNSPLASH_API_KEY = "";
   
   // Function to show the city image container
   
